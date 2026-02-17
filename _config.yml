@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Kevin's Academic Portfolio"
+title                    : "Kevinrzy103874的博客"
 title_separator          : "-"
-name                     : &name "Kevin"
+name                     : &name "Kevinrzy103874"
 description              : &description "Kevin's academic portfolio"   # Update this with a general description of your site
 url                      : "https://kevin13590732645.github.io" # 你的 GitHub Pages 地址
 baseurl                  : "" # 用户站点留空即可
@@ -19,10 +19,10 @@ repository               : "Kevin13590732645/Kevinrzy103874.github.io" # 你的�
 
 # Site Author - 侧边栏个人信息（你可以后续慢慢修改）
 author:
-  avatar           : "profile.png" # 替换成你自己的头像文件名（放在/images/目录下）
-  name             : "Kevin"
+  avatar           : "avatar.png" # 替换成你自己的头像文件名（放在/images/目录下）
+  name             : "Kevinrzy103874"
   pronouns         : ""  
-  bio              : "Welcome to my academic portfolio!"
+  bio              : "欢迎来到我的博客"
   location         : ""
   employer         : ""
   uri              : ""
