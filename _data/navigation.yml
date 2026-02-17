@@ -20,8 +20,6 @@ main:
     url: /游记/
   - title: "比赛公告"
     url: /比赛公告/
-  - title: "关于任我行"
-    url: /关于任我行/
   - title: "日常"
     url: /日常/
   - title: "信息学奥赛"
