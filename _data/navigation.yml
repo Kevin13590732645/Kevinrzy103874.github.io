@@ -2,6 +2,9 @@ main:
   - title: "首页"
     url: /
 
+  - title: "全部博客"
+    url: /year-archive/
+  
   - title: "信息学奥赛"
     url: /categories/信息学奥赛/
 
