@@ -1,4 +1,3 @@
-# 顶部导航栏（显示在页首）
 main:
   - title: "首页"
     url: /
@@ -16,9 +15,6 @@ main:
     url: /学习笔记/
   - title: "OJ"
     url: /oj/
-
-# 右侧三横菜单（折叠显示）
-mobile:
   - title: "模拟赛题目"
     url: /模拟赛题目/
   - title: "模拟赛题解"
