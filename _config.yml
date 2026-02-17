@@ -70,12 +70,12 @@ author:
   # zhihu            : ""
   
   # 代码仓库链接
-  bitbucket        : ""
-  codepen          : ""
-  dribbble         : ""
+  # bitbucket        : ""
+  # codepen          : ""
+  # dribbble         : ""
   github           : "Kevin13590732645" # 你的 GitHub 用户名
-  kaggle           : ""  
-  stackoverflow    : ""    
+  # kaggle           : ""  
+  # stackoverflow    : ""    
 
 
 
